@@ -3033,6 +3033,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Team`
 - [PullReview](http://blog.8thcolor.com/) ([Feed](http://blog.8thcolor.com/feed.xml))
   <br>`#Team`
+- [Pulumi](https://www.pulumi.com/blog/) ([Feed](https://www.pulumi.com/blog/rss.xml))
+  <br>`#Team`  
 - [Pusher](https://making.pusher.com/) ([Feed](https://making.pusher.com/feed.xml))
   <br>`#Team`
 - [Pushing Pixels](https://www.pushing-pixels.org/) ([Feed](https://www.pushing-pixels.org/feed))
