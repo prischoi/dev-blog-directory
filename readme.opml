@@ -409,6 +409,7 @@
         <outline type="rss" text="codon.com/articles" title="codon.com/articles" xmlUrl="https://codon.com/feed.atom" htmlUrl="http://codon.com/articles"/>
         <outline type="rss" text="Codrops | Useful resources and inspiration for creative minds" title="Codrops | Useful resources and inspiration for creative minds" xmlUrl="https://tympanus.net/codrops/rss" htmlUrl="https://tympanus.net/codrops/"/>
         <outline type="rss" text="Coinbase" title="Coinbase" xmlUrl="https://engineering.coinbase.com/feed" htmlUrl="https://engineering.coinbase.com/"/>
+        <outline type="rss" text="coles.codes" title="coles.codes" xmlUrl="https://coles.codes/index.xml" htmlUrl="https://coles.codes/"/>
         <outline type="rss" text="Coletiv Studio Blog" title="Coletiv Studio Blog" xmlUrl="https://coletiv.com/rss.xml" htmlUrl="https://coletiv.com/blog/"/>
         <outline type="rss" text="Colin Cummings" title="Colin Cummings" xmlUrl="https://colinrcummings.github.io/blog/rss.xml" htmlUrl="https://colinrcummings.github.io/blog/"/>
         <outline type="rss" text="Colin Drake&apos;s Blog" title="Colin Drake&apos;s Blog" xmlUrl="https://colindrake.me/post/index.xml" htmlUrl="https://colindrake.me/post/"/>

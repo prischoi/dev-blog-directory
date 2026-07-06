@@ -852,6 +852,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
 - [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/) ([Feed](https://tympanus.net/codrops/rss))
   <br>`#Personal` `#web-development`
 - [cognitive.io](https://cognitive.io/)
+- [coles.codes](https://coles.codes/) ([Feed](https://coles.codes/index.xml))
+  <br>`#Personal` `#aws` `#python` `#ai`
   <br>`#Personal` `#golang`
 - [Coinbase](https://engineering.coinbase.com/) ([Feed](https://engineering.coinbase.com/feed))
   <br>`#Team`
